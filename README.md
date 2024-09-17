@@ -2,6 +2,9 @@
 
 [https://dneeraj123.netlify.app] (https://dneeraj123.netlify.app)
 
+The actual version uses Typescript and other features.
+This repo is just a javascript sample for the same.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
