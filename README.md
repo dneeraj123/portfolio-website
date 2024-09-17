@@ -1,9 +1,12 @@
 # Visit my portfolio here to know more about me
 
-[https://dneeraj123.netlify.app] (https://dneeraj123.netlify.app)
+https://dneeraj123.netlify.app 
 
 The actual version uses Typescript and other features.
-This repo is just a javascript sample for the same.
+
+# Note
+
+This repo is just a javascript sample for the same above portfolio.
 
 # React + Vite
 
